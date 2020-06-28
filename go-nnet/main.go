@@ -1,9 +1,9 @@
-package nnet
+package go_nnet
 
 import (
-	"math"
 	"bytes"
 	"encoding/gob"
+	"math"
 	"math/rand"
 )
 
